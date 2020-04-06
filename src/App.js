@@ -29,7 +29,7 @@ class App extends Component{
     }
 
   }
-
+//with http this will throw errors change to https
   componentDidMount(){
     fetch('https://jsonplaceholder.typicode.com/users')
     .then(result=>result.json())
