@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "138ce47e3155499f654c3912fd496d4f",
+    "revision": "56e14c015715c796c4a6e42cfb26e863",
     "url": "/React-Monsters/index.html"
   },
   {
-    "revision": "e4584cf31096841e344d",
+    "revision": "f24467542f047a759009",
     "url": "/React-Monsters/static/css/main.5cccddc0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Monsters/static/js/2.9ace2ea0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4584cf31096841e344d",
-    "url": "/React-Monsters/static/js/main.5129d51b.chunk.js"
+    "revision": "f24467542f047a759009",
+    "url": "/React-Monsters/static/js/main.fd9cff19.chunk.js"
   },
   {
     "revision": "c6fd6a47da7ff13cab23",
